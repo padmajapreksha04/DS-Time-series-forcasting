@@ -9,11 +9,9 @@ To implement a Time Series Forecasting model in Python, by using the FBProphet m
 Testing the forecasting model in three 3 distinct datasets. On Daily, Monthly Mean, and Yearly Mean sunspots.
 
 # Tools and Technologies
-Python (for data analysis, cleaning, and visualization)
+1) Python (for data analysis, cleaning, and visualization)
 
-Libraries
-
-pandas, numpy, matplotlib, seaborn, datetime, Prophet, matplotlib, Jupyter Notebook (for interactive data analysis and documentation)
+2) Libraries: pandas, numpy, matplotlib, seaborn, datetime, Prophet, matplotlib, Jupyter Notebook (for interactive data analysis and documentation)
 
 
 
